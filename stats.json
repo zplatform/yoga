@@ -5,12 +5,12 @@
       "path---docs-align-items-feb180566a942a393796.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-87c7650e6173e230a72b.js",
-      "component---src-pages-index-js-87c7650e6173e230a72b.js.map"
+      "component---src-pages-index-js-ccae4cb5d0bc1195245f.js",
+      "component---src-pages-index-js-ccae4cb5d0bc1195245f.js.map"
     ],
     "component---src-templates-without-playground-js": [
-      "component---src-templates-without-playground-js-c846644ebb9112e0fea6.js",
-      "component---src-templates-without-playground-js-c846644ebb9112e0fea6.js.map"
+      "component---src-templates-without-playground-js-a34109f9b4a5f96400c3.js",
+      "component---src-templates-without-playground-js-a34109f9b4a5f96400c3.js.map"
     ],
     "path---getting-started-standalone": [
       "path---getting-started-standalone-ed268eb2ff20cb74f49c.js",
@@ -45,13 +45,13 @@
       "path---docs-flex-direction-5f95b20df7a0fca0e479.js.map"
     ],
     "component---src-pages-404-js": [
-      "component---src-pages-404-js-67506ed26f780499e25a.js",
-      "component---src-pages-404-js-67506ed26f780499e25a.js.map"
+      "component---src-pages-404-js-325ff67532a5b544ee64.js",
+      "component---src-pages-404-js-325ff67532a5b544ee64.js.map"
     ],
     "commons": [
-      "commons-19bba79fc3f16381fd16.js",
+      "commons-d040696f934142b437c7.js",
       "build-js-styles.css",
-      "commons-19bba79fc3f16381fd16.js.map",
+      "commons-d040696f934142b437c7.js.map",
       "build-js-styles.css.map"
     ],
     "path---docs-width-height": [
@@ -71,8 +71,8 @@
       "path---contributing-writing-documentation-24c7cf0093abd4263194.js.map"
     ],
     "component---src-templates-with-playground-js": [
-      "component---src-templates-with-playground-js-e68e8892de20d15aa9ec.js",
-      "component---src-templates-with-playground-js-e68e8892de20d15aa9ec.js.map"
+      "component---src-templates-with-playground-js-27e99888a4972e52b316.js",
+      "component---src-templates-with-playground-js-27e99888a4972e52b316.js.map"
     ],
     "path---docs-align-content": [
       "path---docs-align-content-a7b70c244e56af18c99e.js",
@@ -109,16 +109,16 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-playground-index-js": [
-      "component---src-pages-playground-index-js-dc214009bfc3c177302d.js",
-      "component---src-pages-playground-index-js-dc214009bfc3c177302d.js.map"
+      "component---src-pages-playground-index-js-3444656895685fc22416.js",
+      "component---src-pages-playground-index-js-3444656895685fc22416.js.map"
     ],
     "path---contributing-testing": [
       "path---contributing-testing-1fe459815871d2c36e80.js",
       "path---contributing-testing-1fe459815871d2c36e80.js.map"
     ],
     "component---src-pages-docs-index-js": [
-      "component---src-pages-docs-index-js-6875ba8b56f79eb3a49e.js",
-      "component---src-pages-docs-index-js-6875ba8b56f79eb3a49e.js.map"
+      "component---src-pages-docs-index-js-28b243ad6bfaaedec715.js",
+      "component---src-pages-docs-index-js-28b243ad6bfaaedec715.js.map"
     ]
   }
 }
