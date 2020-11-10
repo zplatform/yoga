@@ -5,8 +5,8 @@
       "path---docs-align-items-76f15f5cbb1b7350f70c.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-1807dcf2ecbd81d782b2.js",
-      "component---src-pages-index-js-1807dcf2ecbd81d782b2.js.map"
+      "component---src-pages-index-js-1eb727b6c9e9cfd5a9be.js",
+      "component---src-pages-index-js-1eb727b6c9e9cfd5a9be.js.map"
     ],
     "component---src-templates-without-playground-js": [
       "component---src-templates-without-playground-js-a34109f9b4a5f96400c3.js",
@@ -33,8 +33,8 @@
       "path---docs-aspect-ratio-0dcd0bb2fc5ef9587959.js.map"
     ],
     "path---docs": [
-      "path---docs-f8d53d94abd64cb2f780.js",
-      "path---docs-f8d53d94abd64cb2f780.js.map"
+      "path---docs-ae009b30afa116ccedd4.js",
+      "path---docs-ae009b30afa116ccedd4.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -71,8 +71,8 @@
       "path---contributing-writing-documentation-9ad767cd820e6c443491.js.map"
     ],
     "component---src-templates-with-playground-js": [
-      "component---src-templates-with-playground-js-3caff4bac06bbf02353f.js",
-      "component---src-templates-with-playground-js-3caff4bac06bbf02353f.js.map"
+      "component---src-templates-with-playground-js-dfb9913cd17a20f72d86.js",
+      "component---src-templates-with-playground-js-dfb9913cd17a20f72d86.js.map"
     ],
     "path---docs-align-content": [
       "path---docs-align-content-a7b70c244e56af18c99e.js",
@@ -95,9 +95,9 @@
       "path---contributing-opening-a-pull-request-2bbf6633324890cc62bd.js.map"
     ],
     "app": [
-      "app-8bea9251597e57394857.js",
+      "app-83dedd1c9c26fc0393ed.js",
       "build-js-styles.css",
-      "app-8bea9251597e57394857.js.map",
+      "app-83dedd1c9c26fc0393ed.js.map",
       "build-js-styles.css.map"
     ],
     "path---docs-justify-content": [
@@ -109,8 +109,8 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-playground-index-js": [
-      "component---src-pages-playground-index-js-392fd0d90771cd462966.js",
-      "component---src-pages-playground-index-js-392fd0d90771cd462966.js.map"
+      "component---src-pages-playground-index-js-501d72616821059c38b8.js",
+      "component---src-pages-playground-index-js-501d72616821059c38b8.js.map"
     ],
     "path---contributing-testing": [
       "path---contributing-testing-1fe459815871d2c36e80.js",
