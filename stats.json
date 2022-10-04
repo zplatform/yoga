@@ -5,8 +5,8 @@
       "path---docs-align-items-76f15f5cbb1b7350f70c.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-b5c2c70ff3d31a30f5eb.js",
-      "component---src-pages-index-js-b5c2c70ff3d31a30f5eb.js.map"
+      "component---src-pages-index-js-324e85848b061d55e04b.js",
+      "component---src-pages-index-js-324e85848b061d55e04b.js.map"
     ],
     "component---src-templates-without-playground-js": [
       "component---src-templates-without-playground-js-a34109f9b4a5f96400c3.js",
@@ -33,25 +33,25 @@
       "path---docs-aspect-ratio-0dcd0bb2fc5ef9587959.js.map"
     ],
     "path---docs": [
-      "path---docs-ae009b30afa116ccedd4.js",
-      "path---docs-ae009b30afa116ccedd4.js.map"
+      "path---docs-c77734535c5234fa0350.js",
+      "path---docs-c77734535c5234fa0350.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---docs-flex-direction": [
-      "path---docs-flex-direction-5f95b20df7a0fca0e479.js",
-      "path---docs-flex-direction-5f95b20df7a0fca0e479.js.map"
+      "path---docs-flex-direction-458847e26f14972ad1ca.js",
+      "path---docs-flex-direction-458847e26f14972ad1ca.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-325ff67532a5b544ee64.js",
       "component---src-pages-404-js-325ff67532a5b544ee64.js.map"
     ],
     "commons": [
-      "commons-d040696f934142b437c7.js",
+      "commons-925a95edf51c65956bf9.js",
       "build-js-styles.css",
-      "commons-d040696f934142b437c7.js.map",
+      "commons-925a95edf51c65956bf9.js.map",
       "build-js-styles.css.map"
     ],
     "path---docs-width-height": [
@@ -67,12 +67,12 @@
       "path---docs-flex-wrap-c20c60752787dce5f765.js.map"
     ],
     "path---contributing-writing-documentation": [
-      "path---contributing-writing-documentation-9ad767cd820e6c443491.js",
-      "path---contributing-writing-documentation-9ad767cd820e6c443491.js.map"
+      "path---contributing-writing-documentation-c96d85385e7b9015b919.js",
+      "path---contributing-writing-documentation-c96d85385e7b9015b919.js.map"
     ],
     "component---src-templates-with-playground-js": [
-      "component---src-templates-with-playground-js-e3d57e0008e59052dc47.js",
-      "component---src-templates-with-playground-js-e3d57e0008e59052dc47.js.map"
+      "component---src-templates-with-playground-js-71114e17021e82569e7c.js",
+      "component---src-templates-with-playground-js-71114e17021e82569e7c.js.map"
     ],
     "path---docs-align-content": [
       "path---docs-align-content-a7b70c244e56af18c99e.js",
@@ -91,13 +91,13 @@
       "path---playground-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---contributing-opening-a-pull-request": [
-      "path---contributing-opening-a-pull-request-2bbf6633324890cc62bd.js",
-      "path---contributing-opening-a-pull-request-2bbf6633324890cc62bd.js.map"
+      "path---contributing-opening-a-pull-request-5a548a508765b2eb2fb9.js",
+      "path---contributing-opening-a-pull-request-5a548a508765b2eb2fb9.js.map"
     ],
     "app": [
-      "app-83dedd1c9c26fc0393ed.js",
+      "app-e6bb64741fddbabb549d.js",
       "build-js-styles.css",
-      "app-83dedd1c9c26fc0393ed.js.map",
+      "app-e6bb64741fddbabb549d.js.map",
       "build-js-styles.css.map"
     ],
     "path---docs-justify-content": [
@@ -109,16 +109,16 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-playground-index-js": [
-      "component---src-pages-playground-index-js-0b36f45713d6bb803af6.js",
-      "component---src-pages-playground-index-js-0b36f45713d6bb803af6.js.map"
+      "component---src-pages-playground-index-js-e3c4dd1e03f305df843a.js",
+      "component---src-pages-playground-index-js-e3c4dd1e03f305df843a.js.map"
     ],
     "path---contributing-testing": [
-      "path---contributing-testing-7f8e9bc5f9359f13f8c5.js",
-      "path---contributing-testing-7f8e9bc5f9359f13f8c5.js.map"
+      "path---contributing-testing-a775bd8e79d001f8ad64.js",
+      "path---contributing-testing-a775bd8e79d001f8ad64.js.map"
     ],
     "component---src-pages-docs-index-js": [
-      "component---src-pages-docs-index-js-28b243ad6bfaaedec715.js",
-      "component---src-pages-docs-index-js-28b243ad6bfaaedec715.js.map"
+      "component---src-pages-docs-index-js-19bbfe134fcc5b6aa13d.js",
+      "component---src-pages-docs-index-js-19bbfe134fcc5b6aa13d.js.map"
     ]
   }
 }
